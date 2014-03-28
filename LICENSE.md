@@ -1,10 +1,10 @@
 Simple Public License (SimPL-2.0)
 =================================
 
-Preamble
+Preamblesdfs
 --------
 
-This Simple Public License 2.0 (SimPL-2.0 for short) is a plain language
+ThisSimple Public License 2.0 (SimPL-2.0 for short) is a plain language
 implementation of GPL 2.0.  The words are different, but the goal is the
 same - to guarantee for all users the freedom to share and change
 software.  If anyone wonders about the meaning of the SimPL, they should
